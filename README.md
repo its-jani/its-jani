@@ -40,6 +40,6 @@
 
 ### Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaikjanibasha3450&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-jani&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaikjanibasha3450&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=its-jani&theme=github-compact)
